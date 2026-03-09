@@ -1,4 +1,6 @@
 package co.edu.uptc.model.config;
 
-public class PersonConfig {
+public class GlobalConfig {
+    public static String personFileName = "PERSONAS.TXT";
+    public static String personFilePath = "PERSONAS.TXT";
 }
